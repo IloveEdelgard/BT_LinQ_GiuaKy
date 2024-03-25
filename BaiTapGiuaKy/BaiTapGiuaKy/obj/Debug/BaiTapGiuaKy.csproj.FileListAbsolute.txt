@@ -1,0 +1,7 @@
+D:\GitHub\C#\BT_LinQ_GiuaKy\BaiTapGiuaKy\BaiTapGiuaKy\obj\Debug\BaiTapGiuaKy.csproj.AssemblyReference.cache
+D:\GitHub\C#\BT_LinQ_GiuaKy\BaiTapGiuaKy\BaiTapGiuaKy\obj\Debug\BaiTapGiuaKy.csproj.CoreCompileInputs.cache
+D:\GitHub\C#\BT_LinQ_GiuaKy\BaiTapGiuaKy\BaiTapGiuaKy\bin\Debug\BaiTapGiuaKy.exe.config
+D:\GitHub\C#\BT_LinQ_GiuaKy\BaiTapGiuaKy\BaiTapGiuaKy\bin\Debug\BaiTapGiuaKy.exe
+D:\GitHub\C#\BT_LinQ_GiuaKy\BaiTapGiuaKy\BaiTapGiuaKy\bin\Debug\BaiTapGiuaKy.pdb
+D:\GitHub\C#\BT_LinQ_GiuaKy\BaiTapGiuaKy\BaiTapGiuaKy\obj\Debug\BaiTapGiuaKy.exe
+D:\GitHub\C#\BT_LinQ_GiuaKy\BaiTapGiuaKy\BaiTapGiuaKy\obj\Debug\BaiTapGiuaKy.pdb
