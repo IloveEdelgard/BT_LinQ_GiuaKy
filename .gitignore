@@ -41,6 +41,7 @@
 *.su
 *.idb
 *.pdb
+*.suo
 
 # Kernel Module Compile Results
 *.mod*
@@ -50,3 +51,7 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+/BaiTapGiuaKy
+BaiTapGiuaKy/.vs/BaiTapGiuaKy/v16/.suo
+/BaiTapGiuaKy/.vs/BaiTapGiuaKy/v16
+/BaiTapGiuaKy/.vs
